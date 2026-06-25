@@ -1,0 +1,17 @@
+# Environnement virtuel
+.venv/
+venv/
+
+# Cache Python et Numba
+__pycache__/
+*.pyc
+*.nbi
+*.nbc
+
+# Données générées (trop volumineuses pour Git ; régénérées via generate_data.py)
+*.csv
+
+# Divers
+.DS_Store
+.idea/
+.vscode/
