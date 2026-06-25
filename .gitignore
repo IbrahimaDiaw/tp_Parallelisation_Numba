@@ -10,6 +10,7 @@ __pycache__/
 
 # Données générées (trop volumineuses pour Git ; régénérées via generate_data.py)
 *.csv
+*.doc
 
 # Divers
 .DS_Store
